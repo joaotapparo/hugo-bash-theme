@@ -26,10 +26,10 @@ git submodule add https://github.com/JohnnyHall/hugo-bash-theme.git themes/hugo-
 hugo server -t hugo-bash-theme -w -D
 ```
 
-# 🖌️ Themes
+## 🖌️ Themes
 hugo-bash-theme supports any theme available on [Gogh](https://gogh-co.github.io/Gogh/)
 
-# 🤝 Related Projects
+## 🤝 Related Projects
 - Inspired by a desire to improve upon Yukuro/hugo-theme-shell
 
 ## 👤 Developers
