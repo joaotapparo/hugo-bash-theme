@@ -3,17 +3,26 @@
 </p>
 
 # 📇  Hugo Bash Theme
-> Yue foi meu primeiro bot no discord, ela foi criada com o intuito de ser um bot divertido que interagia com os outros
+>  A fast, clean and responsive Hugo theme inspired by bash.
 
 ## 📜 Requiremednts
 1. Discord Bot Token Guide
 2. Node.js 12
 
 ## ⚙️ Installation
+
+### Create a new website
 ```
 hugo new site <name>
 cd <name>
 git init
+git submodule add https://github.com/JohnnyHall/hugo-bash-theme.git themes/hugo-bash-theme
+hugo server -t hugo-bash-theme -w -D
+```
+
+### Apply to an existing site
+```
+cd <name>
 git submodule add https://github.com/JohnnyHall/hugo-bash-theme.git themes/hugo-bash-theme
 hugo server -t hugo-bash-theme -w -D
 ```
@@ -31,10 +40,6 @@ hugo server -t hugo-bash-theme -w -D
 *Remoji | Envia um emoji aleatorio.<br>
 *Alife | Mostra seu ralacionamento com uma pessoa em outra vida.<br>
 *Amizade | Mostra seu nivel de amizade com outra pessoa.<br>
-  
-## 🌎 Locales
-Currently available locales are:
-- Brazilian Portuguese (pt_br)
 
 ## 🤝 Contributing
 1. [Fork the repository](https://github.com/JohnnyHall/Anagram-game/fork)
