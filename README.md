@@ -1,13 +1,22 @@
 <p align="center">
-  <img src="https://i.imgur.com/ZSifSPK.png" height='300'/>
+  <img src="https://i.imgur.com/s08w8Jp.png" height='300'/>
 </p>
 
-# 🍭 Yue
+# 📇  Hugo Bash Theme
 > Yue foi meu primeiro bot no discord, ela foi criada com o intuito de ser um bot divertido que interagia com os outros
 
 ## 📜 Requiremednts
 1. Discord Bot Token Guide
 2. Node.js 12
+
+## ⚙️ Installation
+```
+hugo new site <name>
+cd <name>
+git init
+git submodule add https://github.com/JohnnyHall/hugo-bash-theme.git themes/hugo-bash-theme
+hugo server -t hugo-bash-theme -w -D
+```
 
 ## 📝 Features & Commands
 > Default prefix is '*'
