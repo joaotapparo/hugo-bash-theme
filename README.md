@@ -6,8 +6,7 @@
 >  A fast, clean and responsive Hugo theme inspired by bash.
 
 ## 📜 Requiremednts
-1. Discord Bot Token Guide
-2. Node.js 12
+1. Hugo v0.101.0 extended version
 
 ## ⚙️ Installation
 
@@ -27,26 +26,8 @@ git submodule add https://github.com/JohnnyHall/hugo-bash-theme.git themes/hugo-
 hugo server -t hugo-bash-theme -w -D
 ```
 
-## 📝 Features & Commands
-> Default prefix is '*'
-
-### Fun✨
-*Avatar | Mostra a sua foto de perfil.<br>
-*Kiss | Da um beijão em alguem.<br>
-*Murro | Da um murro em alguem.<br>
-*Meme | Envia um meme.<br>
-*Coinflip | É um jogo de cara ou coroa.<br>
-*Fox | Mostra imagens e fatos aleatorios sobre raposas.<br>
-*Remoji | Envia um emoji aleatorio.<br>
-*Alife | Mostra seu ralacionamento com uma pessoa em outra vida.<br>
-*Amizade | Mostra seu nivel de amizade com outra pessoa.<br>
-
-## 🤝 Contributing
-1. [Fork the repository](https://github.com/JohnnyHall/Anagram-game/fork)
-2. Clone your fork: `git clone https://github.com/JohnnyHall/Anagram-game.git`
-3. Stage changes `git add .`
-4. Commit your changes: `cz` OR use `git commit`
-5. Submit a pull request
+# 🖌️ Themes
+hugo-bash-theme supports any theme available on [Gogh](https://gogh-co.github.io/Gogh/)
 
 ## 👤 Developers
  - João Victor Rokemback Tápparo
