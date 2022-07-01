@@ -29,6 +29,9 @@ hugo server -t hugo-bash-theme -w -D
 # 🖌️ Themes
 hugo-bash-theme supports any theme available on [Gogh](https://gogh-co.github.io/Gogh/)
 
+# 🤝 Related Projects
+- Inspired by a desire to improve upon Yukuro/hugo-theme-shell
+
 ## 👤 Developers
  - João Victor Rokemback Tápparo
 
