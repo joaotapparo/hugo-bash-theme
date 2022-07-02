@@ -33,17 +33,16 @@
   Welcome to my blog!!
   """
 
-
   # Parametros do comando Tree ↓
   [Params.Tree]
   use = true
   folderName = "my_activity"
   files = [ 
-    ["posts", "/post"],
-    ["projects", "https://www.example.com/"],
-    ["about me", "https://golang.org/"],
+    ["posts", "/posts"],
+    ["projects", "/projects"],
+    ["about me", "/about-me"],
   ]
-
+  
 [module]
   [module.hugoVersion]
     extended = true
