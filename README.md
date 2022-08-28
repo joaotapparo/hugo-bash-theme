@@ -5,7 +5,7 @@
 # 📇  Hugo Bash Theme
 >  A fast, clean and responsive Hugo theme inspired by bash.
 
-## 📜 Requiremednts
+## 📜 Requirements
 1. Hugo v0.101.0 extended version
 
 ## ⚙️ Installation
